@@ -54,5 +54,5 @@ Agora sim a atualização foi feita para nuvem; agora está no repositório remo
 [Documentação oficial do Git](https://git-scm.com/doc)
 
 Onde eu estudei sobre Git e GitHub?
-[Alura](https://www.alura.com.br/) e [Digital Innovation One Inc.](https://www.dio.me/)
+[Alura](https://www.alura.com.br/) e [Digital Innovation One Inc.](https://dio.me/sign-up?ref=Q6T6QGFVNK)
 
